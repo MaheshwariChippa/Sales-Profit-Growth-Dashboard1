@@ -27,5 +27,4 @@ This dashboard allows business stakeholders to analyze the performance of key me
 - Adding predictive analytics to forecast future sales and profit.
 - Enhancing data granularity by including more KPIs.
 
-## License:
-This project is open-source and free to use. Please feel free to modify it as needed.
+
